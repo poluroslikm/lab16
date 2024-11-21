@@ -1,0 +1,9 @@
+﻿  FileName.c
+C:\Users\Poluroslik M\Desktop\lab14-main\Project6\FileName.c(55,39): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+C:\Users\Poluroslik M\Desktop\lab14-main\Project6\FileName.c(64,40): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+C:\Users\Poluroslik M\Desktop\lab14-main\Project6\FileName.c(68,19): warning C4101: find: неиспользованная локальная переменная
+C:\Users\Poluroslik M\Desktop\lab14-main\Project6\FileName.c(24,1): warning C4716: put_elements: должна возвращать значение
+C:\Users\Poluroslik M\Desktop\lab14-main\Project6\FileName.c(96,1): warning C4716: lab14task2: должна возвращать значение
+C:\Users\Poluroslik M\Desktop\lab14-main\Project6\FileName.c(79,1): warning C4716: lab14task3: должна возвращать значение
+C:\Users\Poluroslik M\Desktop\lab14-main\Project6\FileName.c(106,1): warning C4716: lab14task1: должна возвращать значение
+  Project6.vcxproj -> C:\Users\Poluroslik M\Desktop\lab14-main\Project6\x64\Debug\Project6.exe

@@ -1,0 +1,4 @@
+﻿  FileName.c
+C:\Users\student\Desktop\lab15-main\lab14-main\Project6\FileName.c(33): warning C4716: put_elements: должна возвращать значение
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(1094,5): error MSB6006: "link.exe" завершилась с кодом 1168.
+LINK : fatal error LNK1168: не удается открыть C:\Users\student\Desktop\lab15-main\lab14-main\Project6\x64\Debug\Project6.exe для записи
