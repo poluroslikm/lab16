@@ -1,0 +1,10 @@
+﻿  FileName.c
+C:\Users\student\Desktop\Project16\FileName.c(53,24): warning C4028: формальный параметр 1 отличается от объявления
+C:\Users\student\Desktop\Project16\FileName.c(60,41): warning C4133: return: несовместимые типы - из "int *" в "double *"
+C:\Users\student\Desktop\Project16\FileName.c(61,21): warning C4133: =: несовместимые типы - из "int *" в "double *"
+C:\Users\student\Desktop\Project16\FileName.c(128,8): warning C4013: time: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\student\Desktop\Project16\FileName.c(170,9): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\student\Desktop\Project16\FileName.c(171,9): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\student\Desktop\Project16\FileName.c(131,17): warning C4101: el2: неиспользованная локальная переменная
+C:\Users\student\Desktop\Project16\FileName.c(131,12): warning C4101: el1: неиспользованная локальная переменная
+  Project6.vcxproj -> C:\Users\student\Desktop\Project16\x64\Debug\Project6.exe

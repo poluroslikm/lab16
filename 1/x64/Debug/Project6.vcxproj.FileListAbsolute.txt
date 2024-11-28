@@ -1,0 +1,5 @@
+C:\Users\student\Desktop\lab8-main\Project6\x64\Debug\Project6.exe
+C:\Users\student\Desktop\lab11-main\lab8-main\Project6\x64\Debug\Project6.exe
+C:\Users\student\Desktop\lab14-main\Project6\x64\Debug\Project6.exe
+C:\Users\student\Desktop\lab15-main\lab14-main\Project6\x64\Debug\Project6.exe
+C:\Users\student\Desktop\Project16\x64\Debug\Project6.exe
